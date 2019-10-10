@@ -1,2 +1,2 @@
 # Web-Dev-s19
-repository for web develpoment
+repository for web develpoments
